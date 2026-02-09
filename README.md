@@ -31,7 +31,7 @@
 <h2>🧠 Sobre mim</h2>
 
 <ul>
-  <li><b>Status Atual:</b> Estudante do 4º semestre de Ciência da Computação (19 anos), buscando minha primeira oportunidade de estágio.</li>
+  <li><b>Status Atual:</b> Estudante do 5º semestre de Ciência da Computação (19 anos), buscando minha primeira oportunidade de estágio.</li>
   <li><b>Foco Técnico:</b> Desenvolvimento Backend, especializando-me na construção de APIs RESTful com <b>Java 17+</b> e <b>Spring Boot</b>.</li>
   <li><b>Motivação:</b> Resolver problemas complexos do mundo real (como segurança e gestão de dados) através de código limpo e eficiente.</li>
   <li><b>Background Único:</b> Trago a vivência prática da empresa familiar, onde desenvolvi cedo o senso de responsabilidade, resiliência e a visão de que a tecnologia deve servir ao negócio.</li>
@@ -40,7 +40,7 @@
 
 <pre>
 const perfil_estudante = {
-  universidade: "Ciência da Computação (4º Semestre)",
+  universidade: "Ciência da Computação (5º Semestre)",
   stack_principal: ["Java 17+", "Spring Boot", "SQL", "API REST"],
   projetos_chave: [
     "Sistema de Detecção de Fraudes (Simulação Bancária)",
