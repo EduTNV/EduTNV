@@ -6,7 +6,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2800&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Construindo+APIs+robustas+e+pipelines+de+dados.;Explorando+o+ecossistema+Java,+Python+e+IA.;Unindo+tecnologia+com+visão+de+negócio."
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2800&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Construindo+APIs+robustas+e+pipelines+de+dados.;Explorando+o+ecossistema+Java%2C+Python+e+IA.;Unindo+tecnologia+com+vis%C3%A3o+de+neg%C3%B3cio."
     alt="Texto animado"
   />
 </p>
