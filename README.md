@@ -31,7 +31,7 @@
 <h2>🧠 Sobre mim</h2>
 
 <ul>
-  <li><b>Status Atual:</b> Estudante do 5º semestre de Ciência da Computação na Universidade Anhembi Morumbi (19 anos), buscando minha primeira oportunidade de estágio.</li>
+  <li><b>Status Atual:</b> Estudante do 6º semestre de Ciência da Computação na Universidade Anhembi Morumbi (19 anos), buscando minha primeira oportunidade de estágio.</li>
   <li><b>Foco Técnico:</b> Desenvolvimento <b>Backend</b> (Java/Spring Boot) e transição/integração com a <b>Área de Dados e IA</b> (Python/FastAPI).</li>
   <li><b>Meu Perfil:</b> Gosto de transitar entre a construção de APIs que sustentam as aplicações e a extração, tratamento e governança dos dados que geram valor para o negócio.</li>
   <li><b>Background Único:</b> Trago a vivência prática da empresa familiar, onde desenvolvi cedo o senso de responsabilidade, resiliência e a visão de que a tecnologia (seja um endpoint ou um pipeline de dados) deve servir aos objetivos da operação.</li>
