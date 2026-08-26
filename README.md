@@ -39,7 +39,7 @@
 
 <pre>
 const perfil_estudante = {
-  universidade: "Ciência da Computação (5º Semestre)",
+  universidade: "Ciência da Computação (6º Semestre)",
   stack_core: ["Java/Spring Boot", "Python/FastAPI", "SQL", "Docker"],
   foco_atual: ["Backend", "Engenharia/Análise de Dados", "Governança de IA"],
   projetos_chave: [
